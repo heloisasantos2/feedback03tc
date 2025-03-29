@@ -43,6 +43,8 @@ export function App() {
       ) : (
         <div className="bg-radial-gradient max-w-103 px-6 pt-6 pb-8 rounded-2xl font-overpass"> 
           <img src={illustrationThankYou} alt="illustration Thank You" />
+
+          <p></p>
         </div>
       )
   )
